@@ -1,0 +1,36 @@
+.container {
+    width: 360px;
+    border-style: solid;
+    padding: 15px;
+    border-width: 5px;
+    margin: auto;
+    text-align: centre;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: khaki;
+  }
+
+  #billAmount, #tipPercentage, #tipAmount, #billTotal {
+      background-color: white;
+      border-width: 4px;
+      border-style: double;
+      border-color: black;
+      width: 350px;
+      height: 40px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: .5cm;
+  }
+
+  p {
+      font-size: 20px;
+      font-family:Georgia, 'Times New Roman', Times, serif;
+  }
